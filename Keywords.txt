@@ -1,0 +1,9 @@
+// Created By Mohit Arora (miliAmps automation)
+// Date:07-02-2020
+
+Keywords:
+Globally declaration: Keypad_DIY keys(analogPin);  //you can use any name at the place of "keys"
+
+1. getminReference()  //return int 
+2. getmaxReference() //return int
+3. getNumber()  //return char 
