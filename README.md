@@ -1,2 +1,2 @@
 # Keypad_DIY
-Create your own keypad which use only one analog pin 
+Create your own keypad which using one analog pin 
